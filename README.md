@@ -1,43 +1,107 @@
-# Hi, I'm Rajesh Desai
+<!-- Header banner with waving animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rajesh%20Desai&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Pune&descAlignY=60&descSize=22" width="100%" alt="Rajesh Desai header"/>
 
-AI Engineer based in Pune, open to AI Engineer roles.
-I build RAG apps, ML models, and agent-based tools in Python.
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=AI+Engineer+based+in+Pune;Python+%7C+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Open+to+AI+Engineer+roles" alt="Typing animation" />
+</div>
 
----
+<br/>
 
-## About me
+<div align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20Engineer-brightgreen?style=for-the-badge" alt="Open to work"/>
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pune"/>
+  <img src="https://img.shields.io/badge/Experience-9%20Months%20Internship-orange?style=for-the-badge" alt="Experience"/>
+</div>
 
-I trained in Python, Machine Learning, Generative AI, RAG, and Agentic AI.
-I also worked on real projects during two internships.
-I like turning a messy business problem into a working AI feature.
+<br/>
 
-## Skills
+## 👋 About Me
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+I am an AI Engineer from Pune. I trained in Python, Machine Learning, Generative AI, RAG and Agentic AI, and I have done 9 months of internship work at two organizations.
 
-## Experience
+I like taking a real business problem and turning it into a working AI feature. Right now I am looking for an AI Engineer role where I can build and ship things with a good team.
 
-**Victysoft Solution** | Intern | 6 months
-- One line on what you built
-- One line on the tools you used
+<br/>
 
-**Infosys Springboard** | Intern | 3 months
-- One line on the project (Query Tube)
-- One line on the tools you used
+## 🛠️ Skills
 
-## Projects
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,git,github,vscode&theme=dark" alt="Skills"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-6E40C9?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6B6B?style=for-the-badge" alt="Agentic AI"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-00A67E?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" alt="Machine Learning"/>
+</div>
 
-| Project | What it does | Tech |
+<br/>
+
+## 💼 Experience
+
+| Role | Organization | Duration |
 |---|---|---|
-| [RAG HR Assistant Chatbot](https://github.com/rajeshdesai185/RAG-HR-Assistant-ChatBot) | Answers HR questions from company documents | Python, RAG, LLM |
-| [Query Tube](https://github.com/rajeshdesai185/Query_tube_infosys_intership) | Add one line here | Add tech |
-| [Hospital IVR Modernization](https://github.com/rajeshdesai185/Hospital_IVR_Modernization) | Add one line here | Add tech |
+| AI Intern | **Victysoft Solution** | 6 months |
+| AI Intern | **Infosys Springboard** | 3 months |
 
-## Contact
+- At Victysoft Solution I worked on AI and Python projects with a team, wrote code, tested it, and used Git for version control.
+- At Infosys Springboard I built the Query Tube project and learned how a project moves from idea to a working demo.
 
-[LinkedIn](your-linkedin-link) | [Email](mailto:your-email) | [Portfolio](https://rajeshdesai185.github.io)
+<br/>
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 RAG HR Assistant</h3>
+      <p>A chatbot that answers HR questions by searching company documents and giving answers based on them.</p>
+      <p><code>Python</code> <code>RAG</code> <code>LLM</code></p>
+      <a href="https://github.com/rajeshdesai185/RAG-HR-Assistant-ChatBot">View project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🎥 Query Tube</h3>
+      <p>My Infosys Springboard internship project, built to let users ask questions and get answers from video content.</p>
+      <p><code>Python</code> <code>NLP</code> <code>GenAI</code></p>
+      <a href="https://github.com/rajeshdesai185/Query_tube_infosys_intership">View project →</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏥 Hospital IVR Modernization</h3>
+      <p>An upgrade of a hospital phone menu system so patients can reach the right service faster.</p>
+      <p><code>Python</code> <code>AI</code></p>
+      <a href="https://github.com/rajeshdesai185/Hospital_IVR_Modernization">View project →</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rajeshdesai185&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://rajeshdesai185.github.io"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer"/>
