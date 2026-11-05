@@ -110,25 +110,32 @@ I have hands-on experience in Python, Machine Learning, Deep Learning, Generativ
 
 ---
 
-<!-- ================= GITHUB STATS ================= -->
+
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&icon_color=3498DB&rank_icon=github" alt="GitHub Stats"/>
+<table border="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&icon_color=3498DB&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&cache_seconds=86400" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444" alt="Top Languages"/>
+<br/>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajeshdesai185&hide_border=true&background=FFFFFF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=444444&dates=777777" width="70%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=FFFFFF&color=2699CC&line=3498DB&point=6DD5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity"/>
+<img src="https://streak-stats.demolab.com?user=rajeshdesai185&theme=default&hide_border=true&background=FFFFFF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=444444&dates=777777" width="75%" alt="GitHub Streak"/>
 
 </div>
+
+---
+
 
 ---
 
