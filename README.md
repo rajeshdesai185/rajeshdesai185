@@ -11,14 +11,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20Engineer-brightgreen?style=for-the-badge" alt="Open to work"/>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pune"/>
-  <img src="https://img.shields.io/badge/Experience-9%20Months%20Internship-orange?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-9%20Months%20Data%20Science%20Intern-orange?style=for-the-badge" alt="Experience"/>
 </div>
 
 <br/>
 
 ## 👋 About Me
 
-I am an AI Engineer from Pune. I trained in Python, Machine Learning, Generative AI, RAG and Agentic AI, and I have done 9 months of internship work at two organizations.
+I am an AI Engineer from Pune. I worked on Python, Machine Learning, Deep learning, Generative AI, RAG and Agentic AI, and I have done 9 months of internship work at two organizations.
 
 I like taking a real business problem and turning it into a working AI feature. Right now I am looking for an AI Engineer role where I can build and ship things with a good team.
 
@@ -40,13 +40,22 @@ I like taking a real business problem and turning it into a working AI feature. 
 
 ## 💼 Experience
 
-| Role | Organization | Duration |
-|---|---|---|
-| AI Intern | **Victysoft Solution** | 6 months |
-| AI Intern | **Infosys Springboard** | 3 months |
+### Data Science Intern | Victysoft Solution
+`6 months`
 
-- At Victysoft Solution I worked on AI and Python projects with a team, wrote code, tested it, and used Git for version control.
-- At Infosys Springboard I built the Query Tube project and learned how a project moves from idea to a working demo.
+- Cleaned and prepared raw datasets with Pandas and NumPy, including missing values, duplicates and wrong data types.
+- Did exploratory data analysis and made charts to share patterns and findings with the team.
+- Trained ML models in scikit-learn and compared them using accuracy, precision and recall.
+- Wrote reusable Python code and tracked changes with Git.
+- Gave regular progress updates to my mentor and fixed issues raised in code reviews.
+
+### Data Science Intern | Infosys Springboard
+`3 months`
+
+- Worked in a team on the Query Tube project, from the problem statement to a working demo.
+- Used NLP and LLM-based methods to process text and generate answers.
+- Tested the outputs, found weak spots and improved results over several rounds.
+- Wrote project documentation and presented the final work to mentors.
 
 <br/>
 
