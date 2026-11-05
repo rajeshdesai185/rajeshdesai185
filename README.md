@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate AI Engineer & Generative AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Developing+RAG+Based+Solutions;Working+with+LLMs+%26;Python+%7C+Machine+Learning+%7C+GenAI;Always+Learning+%7C+Always+Improving" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Developing+RAG+Based+Solutions;Working+with+LLMs;Python+%7C+Machine+Learning+%7C+GenAI;Always+Learning+%7C+Always+Improving" alt="Animated introduction" />
 </p>
 <p align="center">
   <i>"Give me data, and I'll turn it into insights."</i> 📊💡
