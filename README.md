@@ -1,32 +1,20 @@
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    HERO SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-
-<!-- Light Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=230&section=header&text=RAJESH%20DESAI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descAlignY=60&descSize=18" width="100%" alt="Rajesh Desai Header"/>
+<!-- ================= HERO SECTION ================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2699CC&center=true&vCenter=true&width=700&lines=AI+Engineer+based+in+Pune;Python+%7C+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+Intelligent+AI+Applications" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=230&section=header&text=RAJESH%20DESAI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descAlignY=60&descSize=18" width="100%" alt="Rajesh Desai Header"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20ENGINEER-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-3498DB?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2699CC&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+GenAI;Turning+Ideas+Into+Working+Solutions" alt="Typing Animation"/>
 
-</div>
+<br/><br/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+GenAI;Turning+Ideas+Into+Working+Solutions" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://github.com/rajeshdesai185">
+<a href="https://github.com/rajeshdesai185" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/rajesh-desai-999728332/">
+<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:desairajesh8032@gmail.com">
@@ -35,16 +23,14 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20ENGINEER-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-2962FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20ENGINEER-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-3498DB?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
 
@@ -62,55 +48,58 @@ I enjoy understanding how AI systems work internally and applying new technologi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= TECHNICAL SKILLS ================= -->
 
 ## 🛠️ Technical Skills
 
 ### Programming & Data Science
 
-<div align="left">
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode&theme=dark" />
-</div>
+<div align="center">
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode&theme=light" alt="Programming Skills"/>
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-</p>
+
+</div>
 
 ### Generative AI & LLM
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-007ACC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Embeddings-00A67E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Vector_Databases-7952B3?style=flat-square"/>
-</p>
+
+</div>
 
 ### Backend & AI Infrastructure
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
-</p>
+
+</div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   EXPERIENCE                            -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= EXPERIENCE ================= -->
 
 ## 💼 Professional Experience
 
 ### AI/ML Intern | Vcitysoft Solutions Private Limited
+
 **Duration: 6 Months**
 
 - Worked on AI/ML development and practical machine learning tasks.
@@ -120,6 +109,7 @@ I enjoy understanding how AI systems work internally and applying new technologi
 - Collaborated with team members to implement and improve project features.
 
 ### Data Science Intern | Infosys Springboard
+
 **Duration: 3 Months**
 
 - Worked on AI-QueryTube, an AI-powered search application.
@@ -130,22 +120,22 @@ I enjoy understanding how AI systems work internally and applying new technologi
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= PROJECTS ================= -->
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 KAYA AI
+
 **Conversational AI with Memory**
 
 An AI-powered conversational application that maintains contextual memory and generates personalized responses.
 
 **Tech Stack:**
+
 - Python, FastAPI
 - Gemini Flash
 - ChromaDB
@@ -153,14 +143,17 @@ An AI-powered conversational application that maintains contextual memory and ge
 - PostgreSQL
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🔎 AI-QueryTube
+
 **AI-Powered Semantic Search**
 
 A semantic search application that helps users retrieve relevant information using NLP and vector similarity search.
 
 **Tech Stack:**
+
 - Python, FastAPI
 - Sentence Transformers
 - ChromaDB
@@ -169,15 +162,18 @@ A semantic search application that helps users retrieve relevant information usi
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📚 Multimodal RAG
+
 **Intelligent Document Understanding**
 
 A RAG-based solution designed to retrieve information from complex documents containing text, tables, and images.
 
 **Tech Stack:**
+
 - Python, RAG
 - OpenAI Embeddings
 - Pinecone
@@ -185,14 +181,17 @@ A RAG-based solution designed to retrieve information from complex documents con
 - Vision LLM
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### ⚙️ Predictive Maintenance
+
 **Machine Failure Prediction**
 
 A machine learning project that predicts potential equipment failures using operational and sensor data.
 
 **Tech Stack:**
+
 - Python
 - Pandas, NumPy
 - Scikit-learn
@@ -205,33 +204,29 @@ A machine learning project that predicts potential equipment failures using oper
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   GITHUB ANALYTICS                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&icon_color=3498DB&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajeshdesai185&theme=tokyonight&hide_border=true" width="75%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=rajeshdesai185&hide_border=true&background=FFFFFF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=444444&dates=777777" width="75%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=FFFFFF&color=2699CC&line=3498DB&point=6DD5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     CONNECT                             -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ================= CONTACT ================= -->
 
 ## 🤝 Let's Connect
 
@@ -239,26 +234,26 @@ A machine learning project that predicts potential equipment failures using oper
 
 **I'm always open to discussing AI, Generative AI, interesting projects, and career opportunities.**
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/rajesh-desai-999728332/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:desairajesh8032@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/rajeshdesai185">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/rajeshdesai185" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 📧 **desairajesh8032@gmail.com**
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
