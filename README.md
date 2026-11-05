@@ -133,7 +133,7 @@ I enjoy understanding how technologies work, experimenting with new tools and tu
     <img src="https://img.shields.io/badge/LinkedIn-Rajesh_Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:desairajesh8032@gmail.com">
-    <img src="https://img.shields.io/badge/Email-desairajesh8032-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-desairajesh8032@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
