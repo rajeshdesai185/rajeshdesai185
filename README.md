@@ -1,230 +1,136 @@
 
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=230&section=header&text=RAJESH%20DESAI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descAlignY=60&descSize=18" width="100%" alt="Rajesh Desai Header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAJESH%20DESAI&fontSize=60&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn&desc=AI%20ENGINEER&descSize=20&descAlignY=68" width="100%" alt="Rajesh Desai"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2699CC&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+GenAI;Turning+Ideas+Into+Working+Solutions" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=2699CC&center=true&vCenter=true&width=650&lines=Building+Intelligent+AI+Applications;Python+%7C+Machine+Learning+%7C+GenAI;Exploring+RAG+%26+Agentic+AI" alt="Typing animation"/>
 
 <br/><br/>
 
-<a href="https://github.com/rajeshdesai185" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:desairajesh8032@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rajeshdesai185" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20ENGINEER-16A085?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-3498DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN_TO_WORK-AI_ENGINEER-16A085?style=flat-square"/>
+<img src="https://img.shields.io/badge/LOCATION-PUNE_INDIA-3498DB?style=flat-square"/>
 
 </div>
 
-<br/>
+---
 
 <!-- ================= ABOUT ME ================= -->
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-Hi, I'm **Rajesh Desai**, an AI Engineer passionate about building practical AI-powered applications.
+Hi, I'm **Rajesh Desai**, an AI Engineer interested in building practical AI-powered applications.
 
-I have hands-on experience in Python, Machine Learning, Deep Learning, Generative AI, and Retrieval-Augmented Generation (RAG). During my internship experiences, I worked on developing AI solutions, processing data, building backend APIs, and exploring LLM-based applications.
+I have hands-on experience in Python, Machine Learning, Deep Learning, Generative AI, and Retrieval-Augmented Generation (RAG). I enjoy working on real-world problems and developing intelligent applications using modern AI technologies.
 
-I enjoy understanding how AI systems work internally and applying new technologies to solve real-world problems.
+- 🔭 Exploring **RAG, Agentic AI, and LLM applications**
+- 🧠 Interested in Machine Learning, NLP, and Generative AI
+- ⚙️ Working with Python, FastAPI, embeddings, and vector databases
+- 🎯 Actively looking for immediate opportunities as an **AI Engineer / GenAI Developer**
+- 📍 Pune, Maharashtra, India
 
-- 🔭 Currently exploring **RAG, Agentic AI, and LLM applications**
-- 💡 Interested in building intelligent and scalable AI solutions
-- 🧠 Experienced with Python, ML, NLP, embeddings, and vector databases
-- 🎯 Looking for immediate opportunities as an **AI Engineer / GenAI Developer**
-- 📍 Based in Pune, Maharashtra, India
+---
 
-<br/>
-
-<!-- ================= TECHNICAL SKILLS ================= -->
+<!-- ================= SKILLS ================= -->
 
 ## 🛠️ Technical Skills
 
-### Programming & Data Science
+**Programming & Data Science**
 
-<div align="center">
+<div align="left">
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode&theme=light" alt="Programming skills"/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,postgresql,git,github,vscode&theme=light" alt="Programming Skills"/>
-
-<br/><br/>
-
+<p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
 
-</div>
+**Generative AI & Machine Learning**
 
-### Generative AI & LLM
-
-<div align="center">
-
+<p>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/RAG-6E40C9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Agentic_AI-FF6B6B?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-007ACC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Embeddings-00A67E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Vector_Databases-7952B3?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-2699CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-00897B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Embeddings-7952B3?style=flat-square"/>
+</p>
 
-</div>
+**Backend & Infrastructure**
 
-### Backend & AI Infrastructure
-
-<div align="center">
-
+<p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square"/>
+</p>
 
-</div>
-
-<br/>
+---
 
 <!-- ================= EXPERIENCE ================= -->
 
 ## 💼 Professional Experience
 
-### AI/ML Intern | Vcitysoft Solutions Private Limited
+**AI/ML Intern | Vcitysoft Solutions Private Limited**
 
-**Duration: 6 Months**
+*6 Months*
 
 - Worked on AI/ML development and practical machine learning tasks.
 - Developed Python-based solutions for data processing and AI applications.
-- Explored LLM-based applications, RAG workflows, and related technologies.
+- Explored LLM-based applications and RAG workflows.
 - Worked with backend development and API integration.
-- Collaborated with team members to implement and improve project features.
 
-### Data Science Intern | Infosys Springboard
+**Data Science Intern | Infosys Springboard**
 
-**Duration: 3 Months**
+*3 Months*
 
-- Worked on AI-QueryTube, an AI-powered search application.
+- Contributed to the AI-QueryTube project.
 - Implemented semantic search using Sentence Transformers.
-- Used ChromaDB for vector storage and similarity-based retrieval.
+- Used ChromaDB for vector storage and similarity search.
 - Developed backend APIs using FastAPI.
-- Contributed to the application development and project implementation.
 
-<br/>
+---
 
-<!-- ================= PROJECTS ================= -->
-
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 KAYA AI
-
-**Conversational AI with Memory**
-
-An AI-powered conversational application that maintains contextual memory and generates personalized responses.
-
-**Tech Stack:**
-
-- Python, FastAPI
-- Gemini Flash
-- ChromaDB
-- Sentence Transformers
-- PostgreSQL
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔎 AI-QueryTube
-
-**AI-Powered Semantic Search**
-
-A semantic search application that helps users retrieve relevant information using NLP and vector similarity search.
-
-**Tech Stack:**
-
-- Python, FastAPI
-- Sentence Transformers
-- ChromaDB
-- React
-- NLP
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📚 Multimodal RAG
-
-**Intelligent Document Understanding**
-
-A RAG-based solution designed to retrieve information from complex documents containing text, tables, and images.
-
-**Tech Stack:**
-
-- Python, RAG
-- OpenAI Embeddings
-- Pinecone
-- AWS S3
-- Vision LLM
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Predictive Maintenance
-
-**Machine Failure Prediction**
-
-A machine learning project that predicts potential equipment failures using operational and sensor data.
-
-**Tech Stack:**
-
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Random Forest
-- Data Visualization
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ================= GITHUB ANALYTICS ================= -->
+<!-- ================= GITHUB STATS ================= -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&icon_color=3498DB&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444&icon_color=3498DB&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rajeshdesai185&hide_border=true&background=FFFFFF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=444444&dates=777777" width="75%" alt="GitHub Streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2699CC&text_color=444444" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=FFFFFF&color=2699CC&line=3498DB&point=6DD5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com?user=rajeshdesai185&hide_border=true&background=FFFFFF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=444444&dates=777777" width="70%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=FFFFFF&color=2699CC&line=3498DB&point=6DD5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity"/>
 
 </div>
 
-<br/>
+---
 
 <!-- ================= CONTACT ================= -->
 
@@ -232,28 +138,23 @@ A machine learning project that predicts potential equipment failures using oper
 
 <div align="center">
 
-**I'm always open to discussing AI, Generative AI, interesting projects, and career opportunities.**
+**Interested in AI, Generative AI, and building intelligent applications? Let's connect!**
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/rajesh-desai-999728332/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:desairajesh8032@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rajeshdesai185" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br/><br/>
 
 📧 **desairajesh8032@gmail.com**
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
