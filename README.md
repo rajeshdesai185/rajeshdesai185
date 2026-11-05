@@ -5,7 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Developing+RAG+Based+Solutions;Working+with+LLMs+%26+Embeddings;Python+%7C+Machine+Learning+%7C+GenAI;Always+Learning+%7C+Always+Improving" alt="Animated introduction" />
 </p>
-
+<p align="center">
+  <i>"Give me data, and I'll turn it into insights."</i> 📊💡
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/rajesh-desai-999728332/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
