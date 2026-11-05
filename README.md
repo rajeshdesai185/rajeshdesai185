@@ -59,32 +59,6 @@ I like taking a real business problem and turning it into a working AI feature. 
 
 <br/>
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🤖 RAG HR Assistant</h3>
-      <p>A chatbot that answers HR questions by searching company documents and giving answers based on them.</p>
-      <p><code>Python</code> <code>RAG</code> <code>LLM</code></p>
-      <a href="https://github.com/rajeshdesai185/RAG-HR-Assistant-ChatBot">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🎥 Query Tube</h3>
-      <p>My Infosys Springboard internship project, built to let users ask questions and get answers from video content.</p>
-      <p><code>Python</code> <code>NLP</code> <code>GenAI</code></p>
-      <a href="https://github.com/rajeshdesai185/Query_tube_infosys_intership">View project →</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏥 Hospital IVR Modernization</h3>
-      <p>An upgrade of a hospital phone menu system so patients can reach the right service faster.</p>
-      <p><code>Python</code> <code>AI</code></p>
-      <a href="https://github.com/rajeshdesai185/Hospital_IVR_Modernization">View project →</a>
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 📊 GitHub Stats
 
