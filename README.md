@@ -1,9 +1,9 @@
-# 👋 Hey there! I'm Rajesh Desai
+# <p align="center">Hey there! ⚡ I'm Rajesh</p>
 
-<h3 align="center">AI Engineer | Generative AI Enthusiast 🚀</h3>
+<h3 align="center">A Passionate AI Engineer & Generative AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2699CC&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Developing+RAG+Based+Solutions;Working+with+LLMs+%26+Embeddings;Python+%7C+Machine+Learning+%7C+GenAI;Always+Learning+%7C+Always+Improving" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=16A34A&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Exploring+Generative+AI+%26+Agentic+AI;Developing+RAG+Based+Solutions;Working+with+LLMs+%26+Embeddings;Python+%7C+Machine+Learning+%7C+GenAI;Always+Learning+%7C+Always+Improving" alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -31,6 +31,28 @@ I'm an **AI Engineer** interested in building practical AI-powered applications 
 - 📚 Continuously learning and improving my technical skills.
 
 I enjoy understanding how technologies work, experimenting with new tools and turning ideas into useful applications.
+
+---
+
+## 💼 Professional Experience
+
+### Data Science Intern | Vcitysoft Solutions Private Limited
+
+*6 Months*
+
+- Worked on AI/ML development and practical machine learning tasks.
+- Developed Python-based solutions for data processing and AI applications.
+- Explored LLM-based applications and RAG workflows.
+- Worked with backend development and API integration.
+
+### Data Science Intern | Infosys Springboard
+
+*3 Months*
+
+- Contributed to the AI-QueryTube project.
+- Implemented semantic search using Sentence Transformers.
+- Used ChromaDB for vector storage and similarity search.
+- Developed backend APIs using FastAPI.
 
 ---
 
@@ -75,28 +97,6 @@ I enjoy understanding how technologies work, experimenting with new tools and tu
   <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/Vector_Databases-2699CC?style=for-the-badge" />
 </p>
-
----
-
-## 💼 Professional Experience
-
-### Data Science Intern | Vcitysoft Solutions Private Limited
-
-*6 Months*
-
-- Worked on AI/ML development and practical machine learning tasks.
-- Developed Python-based solutions for data processing and AI applications.
-- Explored LLM-based applications and RAG workflows.
-- Worked with backend development and API integration.
-
-### Data Science Intern | Infosys Springboard
-
-*3 Months*
-
-- Contributed to the AI-QueryTube project.
-- Implemented semantic search using Sentence Transformers.
-- Used ChromaDB for vector storage and similarity search.
-- Developed backend APIs using FastAPI.
 
 ---
 
