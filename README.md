@@ -113,34 +113,30 @@ I have hands-on experience in Python, Machine Learning, Deep Learning, Generativ
 
 <!-- ================= GITHUB ANALYTICS ================= -->
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
+<!-- GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&hide_border=false&border_color=D6E8F5&bg_color=F0F7FF&title_color=267EAF&text_color=44546A&icon_color=3498DB&cache_seconds=86400" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajeshdesai185&show_icons=true&theme=default&hide_border=true&bg_color=F0F7FF&title_color=2699CC&icon_color=3498DB&text_color=44546A" width="48%" alt="GitHub Statistics"/>
 
-</td>
-<td width="50%" align="center">
+<!-- Top Languages -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&hide_border=false&border_color=D6E8F5&bg_color=F0F7FF&title_color=267EAF&text_color=44546A&cache_seconds=86400" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rajeshdesai185&theme=default&hide_border=false&border= D6E8F5&background=F0F7FF&ring=2699CC&fire=FF9F43&currStreakLabel=267EAF&sideLabels=44546A&dates=778899" width="80%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshdesai185&layout=compact&theme=default&hide_border=true&bg_color=F0F7FF&title_color=2699CC&text_color=44546A" width="42%" alt="Top Languages"/>
 
 <br/><br/>
 
-### 📈 Contribution Activity
+<!-- GitHub Streak -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=F0F7FF&color=267EAF&line=3498DB&point=FF9F43&area=true&hide_border=false&custom_title=Contribution%20Activity" width="100%" alt="GitHub Activity Graph"/>
+<img src="https://streak-stats.demolab.com/?user=rajeshdesai185&theme=default&hide_border=true&background=F0F7FF&ring=2699CC&fire=FF9F43&currStreakLabel=2699CC&sideLabels=44546A&dates=778899" width="75%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshdesai185&bg_color=F0F7FF&color=2699CC&line=3498DB&point=FF9F43&area=true&hide_border=true" width="95%" alt="Contribution Activity"/>
 
 </div>
 
