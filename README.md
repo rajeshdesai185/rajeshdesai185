@@ -3,9 +3,21 @@
 <!--                    HERO SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
+
+<!-- Light Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6DD5FA,100:8E9EFF&height=230&section=header&text=RAJESH%20DESAI&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descAlignY=60&descSize=18" width="100%" alt="Rajesh Desai Header"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=RAJESH%20DESAI&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20ENGINEER%20%7C%20GENERATIVE%20AI%20%7C%20PYTHON&descSize=18&descAlignY=60" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=2699CC&center=true&vCenter=true&width=700&lines=AI+Engineer+based+in+Pune;Python+%7C+Machine+Learning;Generative+AI+%7C+RAG+%7C+Agentic+AI;Building+Intelligent+AI+Applications" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-AI%20ENGINEER-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-PUNE%2C%20INDIA-3498DB?style=for-the-badge"/>
+
+</div>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+AI+Applications;Exploring+RAG+%26+Agentic+AI;Python+%7C+Machine+Learning+%7C+GenAI;Turning+Ideas+Into+Working+Solutions" alt="Typing SVG"/>
 
